@@ -1,5 +1,5 @@
 {
-    "name": "chaostangent/php-ass",
+    "name": "infureal/php-ass",
     "type": "library",
     "description": "A library for reading Advanced Sub Station Alpha subtitle files",
     "keywords": ["ass","ssa","subtitles","subtitle","mkv","mp4"],
