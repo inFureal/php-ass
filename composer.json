@@ -2,6 +2,7 @@
     "name": "infureal/php-ass",
     "type": "library",
     "description": "A library for reading Advanced Sub Station Alpha subtitle files",
+    "minimum-stability": "stable",
     "keywords": ["ass","ssa","subtitles","subtitle","mkv","mp4"],
     "homepage": "http://github.com/johnnoel/php-ass",
     "license": "MIT",
